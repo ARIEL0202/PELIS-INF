@@ -7,38 +7,25 @@ http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19977.mkv
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19926.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gru, Mi villano favorito - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ml02WwUzz4jlZJdiEI4ZIYHj1J.jpg" group-title="INFANTILES",Gru, Mi villano favorito - 2010
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los descendientes (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg" group-title="DISNEY",Los descendientes (2015)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19922.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="La increíble historia de la pera gigante - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wB4uAEkKxdmMjUwwE8hjtzRRjs.jpg" group-title="INFANTILES",La increíble historia de la pera gigante - 2017
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19918.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superman viaja al sol (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwq1qtM8XmejRyn5S2sIBwY3kpS.jpg" group-title="INFANTILES",Superman viaja al sol (2011)
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19890.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Corgi: Las mascotas de la reina - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0w3tWIl8QLRTb5ovfUbthd4Fci.jpg" group-title="INFANTILES",Corgi: Las mascotas de la reina - 2019
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los mundos de Coraline - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYXXUeSrx9TBbFpbgtLklW5kmVR.jpg" group-title="INFANTILES",Los mundos de Coraline - 2009
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19851.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Constantine: Ciudad De Demonios - La Pelicula - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZgWSO1BrXQYSwRpFgUO9zlpCyq.jpg" group-title="INFANTILES",Constantine: Ciudad De Demonios - La Pelicula - 2018
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19847.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="http://51.222.43.170:36995/images/71534762ce059ed78c1d482b3209434b.jpg" group-title="INFANTILES",Coco (2017)
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cars 3 (2017)" tvg-logo="http://51.222.43.170:36995/images/ede6863dcbf3f5f67cab9069a204280a.jpg" group-title="INFANTILES",Cars 3 (2017)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cars 2 (2011)" tvg-logo="http://51.222.43.170:36995/images/58e8b9058030a3848680b472c310e76b.jpg" group-title="INFANTILES",Cars 2 (2011)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19775.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Hermano oso - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUAsEgeeJjZk01kmQazbJmYhORx.jpg" group-title="INFANTILES",Hermano oso - 2003
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19727.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boonie Bears y el gran secreto - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5KguXOwonbfFrrZDdcQgL2pZGn.jpg" group-title="INFANTILES",Boonie Bears y el gran secreto - 2016
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19705.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big Fish & Begonia - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAmHBydreAbLn0gPXBHmbyEytNP.jpg" group-title="INFANTILES",Big Fish & Begonia - 2016
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman: Linaje - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1SBqj0fn1j72ST5i1jauWo3swT.jpg" group-title="INFANTILES",Wonder Woman: Linaje - 2019
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/24308.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Lorax. En busca de la trúfula perdida - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwAi3EjBeTMTd5MySEtau2WfFPV.jpg" group-title="INFANTILES",Lorax. En busca de la trúfula perdida - 2012
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/24217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey león - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yysmQpv26DdP79XtR3zsL3nVFbN.jpg" group-title="INFANTILES",El rey león - 2019
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/24210.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Turbo - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDARMqluCrWaFgybY9KHLY96L3n.jpg" group-title="INFANTILES",Turbo - 2013
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/24248.mp4
@@ -57,8 +44,7 @@ http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/24133.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Paprika, detective de los sueños - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLWBezULQ0CYrA5bEsVxZT2xkCI.jpg" group-title="INFANTILES",Paprika, detective de los sueños - 2006
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/24044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maléfica (2014)" tvg-logo="http://51.222.43.170:36995/images/6627144b8591d70c48acb1f7597991d0.jpg" group-title="DISNEY",Maléfica (2014)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/23977.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="La Dama y el Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujgFJJu9t4Wx9O573X43eyqWhvC.jpg" group-title="INFANTILES",La Dama y el Vagabundo - 2019
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/23973.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lupin III: El castillo de Cagliostro - 1979" tvg-logo="https://pics.filmaffinity.com/Lupin_III_El_castillo_de_Cagliostro-729626952-large.jpg" group-title="INFANTILES",Lupin III: El castillo de Cagliostro - 1979
@@ -88,8 +74,7 @@ http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19571.mp4
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19613.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Bad Cat (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9sZxFzIXS9ORgVnG49DRK0yekH.jpg" group-title="INFANTILES",The Bad Cat (2016)
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19624.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barbie y Los Delfines Mágicos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42MQwsJHg2iKos3yNUkWISzIDbD.jpg" group-title="INFANTILES",Barbie y Los Delfines Mágicos - 2017
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19632.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman: El regreso del Caballero Oscuro, Parte 2 (2013)" tvg-logo="http://51.222.43.170:36995/images/79aa8904b40e3fbbd6dc285bebe55209.jpg" group-title="INFANTILES",Batman: El regreso del Caballero Oscuro, Parte 2 (2013)
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/19644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lego DC Super Hero Girls: Instituto de supervillanos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGvGOvCtFGFobwYldE6u8hWcusV.jpg" group-title="INFANTILES",Lego DC Super Hero Girls: Instituto de supervillanos (2018)
@@ -175,6 +160,7 @@ http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25078.mp4
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25079.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los pitufos 2 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjb5WNkwZJDIcmVrzR4GyPmPRZo.jpg" group-title="INFANTILES",Los pitufos 2 - 2013
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25080.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La Princesa Cisne: Un Misterio Real - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljktBZh0wM8yVZcgMt3i43sjkdy.jpg" group-title="INFANTILES",La Princesa Cisne: Un Misterio Real - 2018
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25081.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El campeón del videojuego (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfJhWQfrCNQayM9xzUjCGkmYWdD.jpg" group-title="INFANTILES",El campeón del videojuego (1989)
@@ -199,16 +185,7 @@ http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25091.mp4
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25092.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Junior Squad Non-Stop Nursery Rhymes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gETCHkKgdydbuF0NCA0h5v5uu5.jpg" group-title="INFANTILES",Junior Squad Non-Stop Nursery Rhymes
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age: La edad de hielo - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg" group-title="INFANTILES",Ice Age: La edad de hielo - 2002
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/35963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age 2: El deshielo - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnBEdWq5gplaAgTmYFg4cq89mWi.jpg" group-title="INFANTILES",Ice Age 2: El deshielo - 2006
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/35964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age 3: El origen de los dinosaurios - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OiDvlOXSyXB90pl4c3Qcl2w5yR.jpg" group-title="INFANTILES",Ice Age 3: El origen de los dinosaurios - 2009
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/35965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age 4: La formación de los continentes - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58chkjMfhylCtdZ29ofw8dp7ot6.jpg" group-title="INFANTILES",Ice Age 4: La formación de los continentes - 2012
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/35966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age: El gran cataclismo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjgvznDSs2YZI0pr0dEe0NzDI7d.jpg" group-title="INFANTILES",Ice Age: El gran cataclismo (2016)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/35967.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La tumba de las luciérnagas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3fQ6LePWbY41AUg4pYyNJW94Cd.jpg" group-title="INFANTILES",La tumba de las luciérnagas (1988)
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/194679.mp4
 #EXTINF:-1 tvg-id="" tvg-name="48 deseos de Navidad (2017)" tvg-logo="http://51.222.43.170:36995/images/6d32be13df90342d78f6c551a6cfdd94.jpg" group-title="NAVIDAD",48 deseos de Navidad (2017)
