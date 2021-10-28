@@ -179,12 +179,6 @@ http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25088.mp4
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25089.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Magos de Waverly Place: Vacaciones en el Caribe - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9vS4h1TRHrfZOicIcTIoeoxLpR.jpg" group-title="INFANTILES",Los Magos de Waverly Place: Vacaciones en el Caribe - 2009
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yoko (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOiaVEHXQiLchRCJZAZPTKZDMBs.jpg" group-title="INFANTILES",Yoko (2012)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zipi y Zape y el club de la canica (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y3kGbGiuPjnxlTMNO7NdhXGDFM.jpg" group-title="INFANTILES",Zipi y Zape y el club de la canica (2013)
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Junior Squad Non-Stop Nursery Rhymes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gETCHkKgdydbuF0NCA0h5v5uu5.jpg" group-title="INFANTILES",Junior Squad Non-Stop Nursery Rhymes
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/25129.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="La tumba de las luciérnagas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3fQ6LePWbY41AUg4pYyNJW94Cd.jpg" group-title="INFANTILES",La tumba de las luciérnagas (1988)
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/194679.mp4
