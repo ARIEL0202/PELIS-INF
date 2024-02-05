@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Baby Ruby (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUizkrlKbT4nHXUElvnIrjcPsDd.jpg" group-title="ESTRENOS 2023",Baby Ruby (2023)
-http://nxt.plus:8080/movie/olmos/1234guz/118624.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="UNIVERSO MARVEL",Pantera Negra: Wakanda por siempre (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118691.mkv
 
