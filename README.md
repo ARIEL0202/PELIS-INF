@@ -1,23 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="UNIVERSO MARVEL",Pantera Negra: Wakanda por siempre (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118691.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Venus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="ESTRENOS 2022",Venus (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119172.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Un misterio de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="NAVIDAD NXT",Un misterio de Navidad (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118640.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Navidad en el paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUErzXNagefPT6fZFYMwpbymwcv.jpg" group-title="NAVIDAD NXT",Navidad en el paraíso (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118720.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Una noche descontrolada: Tiempo de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voMl9yeRvYlhayFBBhUqYVBKTyQ.jpg" group-title="NAVIDAD NXT",Una noche descontrolada: Tiempo de Navidad (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118865.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Que Padre…es Mi Familia? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxSnWIyBvDkJkkvc0pzEtK9Pz5p.jpg" group-title="ESTRENOS 2022",Que Padre…es Mi Familia? (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119199.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Navidad en armonía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZY8FvL9Tg86EKrQrvaL68Aexo.jpg" group-title="NAVIDAD NXT",Navidad en armonía (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118844.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Scrooge: Cuento de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqMEPeRCPJFAXE3ZqWv4eBrdCA4.jpg" group-title="NAVIDAD NXT",Scrooge: Cuento de Navidad (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119289.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Equipo foca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tGjQrYrPCbcwMCbptXTR7fUhL5.jpg" group-title="ESTRENOS INFANTILES",Equipo foca (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/119290.mkv
@@ -36,12 +24,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/119294.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: a mamá (y papá) con amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sChfCU3PDV3N6nYessVPWeWkUBc.jpg" group-title="ESTRENOS INFANTILES",Snoopy presenta: a mamá (y papá) con amor (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/119295.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg" group-title="ESTRENOS INFANTILES",Sonic 2: La Película (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119296.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="ESTRENOS INFANTILES",Soul (2020)
-http://nxt.plus:8080/movie/olmos/1234guz/119297.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Space Jam: Una Nueva Era (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg" group-title="ESTRENOS INFANTILES",Space Jam: Una Nueva Era (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/119298.mkv
@@ -128,8 +110,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/119326.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/119327.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Trolls 2: gira mundial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="ESTRENOS INFANTILES",Trolls 2: gira mundial (2020)
 http://nxt.plus:8080/movie/olmos/1234guz/119328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYRd7O5Eht4jypJQrMWnCi26880.jpg" group-title="ESTRENOS INFANTILES",Red (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119329.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un disfraz para Nicolás (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yv2T3RlZuq3ZI0oVkZqjamKzgmk.jpg" group-title="ESTRENOS INFANTILES",Un disfraz para Nicolás (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/119330.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewrIYKTLaqerwznGzNhmqr0huTs.jpg" group-title="ESTRENOS INFANTILES",Un rescate de huevitos (2021)
@@ -152,10 +132,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/119338.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/118997.mkv
 #EXTINF:-1 tvg-id="" tvg-name="If These Walls Could Sing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvyDU4uekUMtWlNXB5yugBtVjNH.jpg" group-title="ESTRENOS 2023",If These Walls Could Sing (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/119029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="जर्सी (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH5AWyhNlx6kEzIhYPYltnLgnoG.jpg" group-title="ESTRENOS 2022",जर्सी (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="ESTRENOS 2022",Venus (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="პაპანაქება (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doOYmpaDbdaMvyMnFGKHrAve195.jpg" group-title="ESTRENOS 2022",პაპანაქება (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118838.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbbZNVuGSD6cPGZ4sfcrA59EKNY.jpg" group-title="ESTRENOS 2022",Abracadabra 2 (2022)
@@ -10940,3 +10916,27 @@ http://nxt.plus:8080/movie/olmos/1234guz/211022.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/211023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Royal Hotel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg" group-title="ESTRENOS 2023",The Royal Hotel (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/211024.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en el paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUErzXNagefPT6fZFYMwpbymwcv.jpg" group-title="NAVIDAD NXT",Navidad en el paraíso (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/118720.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Una noche descontrolada: Tiempo de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voMl9yeRvYlhayFBBhUqYVBKTyQ.jpg" group-title="NAVIDAD NXT",Una noche descontrolada: Tiempo de Navidad (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/118865.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Que Padre…es Mi Familia? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxSnWIyBvDkJkkvc0pzEtK9Pz5p.jpg" group-title="ESTRENOS 2022",Que Padre…es Mi Familia? (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119199.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en armonía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZY8FvL9Tg86EKrQrvaL68Aexo.jpg" group-title="NAVIDAD NXT",Navidad en armonía (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/118844.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Scrooge: Cuento de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqMEPeRCPJFAXE3ZqWv4eBrdCA4.jpg" group-title="NAVIDAD NXT",Scrooge: Cuento de Navidad (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119289.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg" group-title="ESTRENOS INFANTILES",Sonic 2: La Película (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119296.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="ESTRENOS INFANTILES",Soul (2020)
+http://nxt.plus:8080/movie/olmos/1234guz/119297.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYRd7O5Eht4jypJQrMWnCi26880.jpg" group-title="ESTRENOS INFANTILES",Red (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119329.mkv
