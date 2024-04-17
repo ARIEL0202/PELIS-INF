@@ -1,20 +1,12 @@
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="UNIVERSO MARVEL",Pantera Negra: Wakanda por siempre (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118691.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Venus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="ESTRENOS 2022",Venus (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119172.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Un misterio de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="NAVIDAD NXT",Un misterio de Navidad (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118640.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Equipo foca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tGjQrYrPCbcwMCbptXTR7fUhL5.jpg" group-title="ESTRENOS INFANTILES",Equipo foca (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/119290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="TRILOGIA EL PROTEGIDO",El Protegido (2000)
+http://nxt.plus:8080/movie/olmos/1234guz/150569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Split (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ferOoRE6ETESt9A3Aj3v1KPIHqr.jpg" group-title="TRILOGIA EL PROTEGIDO",Split (2016)
+http://nxt.plus:8080/movie/olmos/1234guz/150568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Glass (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbLXENNUaNcHQl4Te94Msqn1oj.jpg" group-title="TRILOGIA EL PROTEGIDO",Glass (2019)
+http://nxt.plus:8080/movie/olmos/1234guz/150567.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Shaun, el cordero: El vuelo antes de Navidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnLPGa9OGBsY61Xtp15cp7rXW1i.jpg" group-title="ESTRENOS INFANTILES",Shaun, el cordero: El vuelo antes de Navidad (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/119291.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Sing 2: ¡Ven y canta de nuevo! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" group-title="ESTRENOS INFANTILES",Sing 2: ¡Ven y canta de nuevo! (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/119292.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: Por los viejos tiempos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg" group-title="ESTRENOS INFANTILES",Snoopy presenta: Por los viejos tiempos (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/119293.mkv
@@ -110,6 +102,8 @@ http://nxt.plus:8080/movie/olmos/1234guz/119326.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/119327.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Trolls 2: gira mundial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="ESTRENOS INFANTILES",Trolls 2: gira mundial (2020)
 http://nxt.plus:8080/movie/olmos/1234guz/119328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYRd7O5Eht4jypJQrMWnCi26880.jpg" group-title="ESTRENOS INFANTILES",Red (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119329.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un disfraz para Nicolás (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yv2T3RlZuq3ZI0oVkZqjamKzgmk.jpg" group-title="ESTRENOS INFANTILES",Un disfraz para Nicolás (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/119330.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewrIYKTLaqerwznGzNhmqr0huTs.jpg" group-title="ESTRENOS INFANTILES",Un rescate de huevitos (2021)
@@ -130,8 +124,8 @@ http://nxt.plus:8080/movie/olmos/1234guz/119337.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/119338.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amor Redentor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBpxJkFsfSjghmrizJr5xhQyACQ.jpg" group-title="ESTRENOS 2022",Amor Redentor (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="If These Walls Could Sing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvyDU4uekUMtWlNXB5yugBtVjNH.jpg" group-title="ESTRENOS 2023",If These Walls Could Sing (2023)
-http://nxt.plus:8080/movie/olmos/1234guz/119029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="ESTRENOS 2022",Venus (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="პაპანაქება (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doOYmpaDbdaMvyMnFGKHrAve195.jpg" group-title="ESTRENOS 2022",პაპანაქება (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118838.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbbZNVuGSD6cPGZ4sfcrA59EKNY.jpg" group-title="ESTRENOS 2022",Abracadabra 2 (2022)
@@ -4238,12 +4232,7 @@ http://nxt.plus:8080/movie/olmos/1234guz/150564.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/150565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEU9067PL8iIZULg7q58NvoWlS.jpg" group-title="SAGA EL SEÑOR DE LOS ANILLOS/EL HOBBIT",El señor de los anillos: Las dos torres (2002)
 http://nxt.plus:8080/movie/olmos/1234guz/150566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glass (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbLXENNUaNcHQl4Te94Msqn1oj.jpg" group-title="TRILOGIA EL PROTEGIDO",Glass (2019)
-http://nxt.plus:8080/movie/olmos/1234guz/150567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Split (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ferOoRE6ETESt9A3Aj3v1KPIHqr.jpg" group-title="TRILOGIA EL PROTEGIDO",Split (2016)
-http://nxt.plus:8080/movie/olmos/1234guz/150568.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="TRILOGIA EL PROTEGIDO",El Protegido (2000)
-http://nxt.plus:8080/movie/olmos/1234guz/150569.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Matrix (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg" group-title="TRILOGIA MATRIX",Matrix (1999)
 http://nxt.plus:8080/movie/olmos/1234guz/150590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix Reloaded: Pre-Load (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="TRILOGIA MATRIX",The Matrix Reloaded: Pre-Load (2003)
@@ -4330,16 +4319,17 @@ http://nxt.plus:8080/movie/olmos/1234guz/150651.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/150652.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baOzlpQllZbjyNBcTdeXESh9Y0M.jpg" group-title="UNIVERSO MARVEL",Shang-Chi y la leyenda de los Diez Anillos (2021)
 http://nxt.plus:8080/movie/olmos/1234guz/150653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvm4WuYxTiGkRagRqHUey0meRQL.jpg" group-title="UNIVERSO MARVEL",Spider (2002)
+#EXTINF:-1 tvg-id="" tvg-name="El hombre araña (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvm4WuYxTiGkRagRqHUey0meRQL.jpg" group-title="UNIVERSO MARVEL",El hombre araña (2002)
 http://nxt.plus:8080/movie/olmos/1234guz/150654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Lejos de casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" group-title="UNIVERSO MARVEL",Spider-Man: Lejos de casa (2019)
-http://nxt.plus:8080/movie/olmos/1234guz/150655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: De Regreso a Casa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg" group-title="UNIVERSO MARVEL",Spider-Man: De Regreso a Casa (2017)
-http://nxt.plus:8080/movie/olmos/1234guz/150656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg" group-title="UNIVERSO MARVEL",El hombre araña 2 (2004)
 http://nxt.plus:8080/movie/olmos/1234guz/150657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg" group-title="UNIVERSO MARVEL",El hombre araña 3 (2007)
 http://nxt.plus:8080/movie/olmos/1234guz/150658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Lejos de casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" group-title="UNIVERSO MARVEL",Spider-Man: Lejos de casa (2019)
+http://nxt.plus:8080/movie/olmos/1234guz/150655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: De Regreso a Casa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg" group-title="UNIVERSO MARVEL",Spider-Man: De Regreso a Casa (2017)
+http://nxt.plus:8080/movie/olmos/1234guz/150656.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="El Sorprendente Hombre-Araña 2: La Amenaza de Electro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxjizLYG86Bxl4mntCWaWXZAko.jpg" group-title="UNIVERSO MARVEL",El Sorprendente Hombre-Araña 2: La Amenaza de Electro (2014)
 http://nxt.plus:8080/movie/olmos/1234guz/150659.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Sorprendente Hombre-Araña (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MsCANWyLJmz2MAEqiy9vKMpyc8.jpg" group-title="UNIVERSO MARVEL",El Sorprendente Hombre-Araña (2012)
@@ -7176,40 +7166,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/166558.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/166559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros. (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU2oB6NWnMJBkHwzRXQYgLAnJ8v.jpg" group-title="INFANTIL",Super Mario Bros. (1993)
 http://nxt.plus:8080/movie/olmos/1234guz/166560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: El camino hacia el poder (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg" group-title="SAGA DRAGON BALL",Dragon Ball: El camino hacia el poder (1996)
-http://nxt.plus:8080/movie/olmos/1234guz/166842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La leyenda de Shen Long (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg" group-title="SAGA DRAGON BALL",Dragon Ball: La leyenda de Shen Long (1986)
-http://nxt.plus:8080/movie/olmos/1234guz/166843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La princesa durmiente del castillo embrujado (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldP1oqszTTOMKHVGxfcEXB6ZPgS.jpg" group-title="SAGA DRAGON BALL",Dragon Ball: La princesa durmiente del castillo embrujado (1987)
-http://nxt.plus:8080/movie/olmos/1234guz/166844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Una Aventura Mística (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg" group-title="SAGA DRAGON BALL",Dragon Ball: Una Aventura Mística (1988)
-http://nxt.plus:8080/movie/olmos/1234guz/166845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El Regreso del Guerrero Legendario (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x83JFWT3zeqI1j2ubPp1xfPhJq4.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: El Regreso del Guerrero Legendario (1994)
-http://nxt.plus:8080/movie/olmos/1234guz/166848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXIsWYr3khU1GlsRbjLcTBFS1xm.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)
-http://nxt.plus:8080/movie/olmos/1234guz/166849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El Ataque Del Dragón (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4dmzS3Y9AlI7AKF14xIzAI4GHa.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: El Ataque Del Dragón (1995)
-http://nxt.plus:8080/movie/olmos/1234guz/166850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El Combate Final (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hisk55cLc4riBfJRbauwooisTK8.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: El Combate Final (1994)
-http://nxt.plus:8080/movie/olmos/1234guz/166851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El Hombre más Fuerte de este Mundo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/josemuzYrnyaHsWVsVpcdFLndCq.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: El Hombre más Fuerte de este Mundo (1990)
-http://nxt.plus:8080/movie/olmos/1234guz/166852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El Poder Invencible (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohLUrudLh5WggTa3f7eb4WyJhMo.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: El Poder Invencible (1993)
-http://nxt.plus:8080/movie/olmos/1234guz/166853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Goku es un Super Saiyajin (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCySGAWNMk0BETBGAK3xNOKTkX5.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: Goku es un Super Saiyajin (1991)
-http://nxt.plus:8080/movie/olmos/1234guz/166854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGadvCa5w8X6zAWzdZlVQYNd6QR.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar (1990)
-http://nxt.plus:8080/movie/olmos/1234guz/166855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La Fusión de Goku y Vegeta (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvmQYjg5Nwoeq17IlgvihUa3qfT.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: La Fusión de Goku y Vegeta (1995)
-http://nxt.plus:8080/movie/olmos/1234guz/166856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La Galaxia Corre Peligro (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gNEyR5CofjsasyemTCCE6EFdKd.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: La Galaxia Corre Peligro (1993)
-http://nxt.plus:8080/movie/olmos/1234guz/166857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La Pelea de los Tres Saiyajin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIiqgyZLObr3Z5LIfGZsk2ouDWl.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: La Pelea de los Tres Saiyajin (1992)
-http://nxt.plus:8080/movie/olmos/1234guz/166858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los Guerreros más Poderosos (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZWXQjDLL6Fxqygbtq8LZaK8h1O.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: Los Guerreros más Poderosos (1992)
-http://nxt.plus:8080/movie/olmos/1234guz/166859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los Rivales más Poderosos (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg" group-title="SAGA DRAGON BALL",Dragon Ball Z: Los Rivales más Poderosos (1991)
-http://nxt.plus:8080/movie/olmos/1234guz/166860.mkv
 #EXTINF:-1 tvg-id="" tvg-name="In your dreams (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdxN87J2SdCkeGt2WuF6xSV4ElO.jpg" group-title="ESTRENOS SUB 2023",In your dreams (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/166878.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Righteous Thieves (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZKTYOTe5hYIVxM8JvKljjONJm4.jpg" group-title="ESTRENOS SUB 2023",Righteous Thieves (2023)
@@ -7376,36 +7332,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/169300.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/169301.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Space Oddity (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/612ajBEu9bUEF3jic7r0PnjG5vP.jpg" group-title="ESTRENOS SUB 2023",Space Oddity (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/169415.mkv
-#EXTINF:-1 tvg-id="MegaTV.us" tvg-name="MEGA TV MIAMI ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/mega-tv-miami-hd.png" group-title="US LATINOS",MEGA TV MIAMI ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/14046
-#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-name="UNIVISION MIAMI ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/univision-miami-hd.png" group-title="US LATINOS",UNIVISION MIAMI ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/24529
-#EXTINF:-1 tvg-id="UNI.(WGBO).Chicago,.IL.us" tvg-name="UNIVISION CHICAGO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/univision-chicago-hd.png" group-title="US LATINOS",UNIVISION CHICAGO ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/24531
-#EXTINF:-1 tvg-id="UNI.(KDTV).San.Francisco,.CA.us" tvg-name="UNIVISION SAN FRANCISCO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/univision-san-francisco-hd.png" group-title="US LATINOS",UNIVISION SAN FRANCISCO ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/64521
-#EXTINF:-1 tvg-id="UNI.(WUNI).Worcester,.MA.us" tvg-name="UNIVISION BOSTON ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/univision-boston-hd.png" group-title="US LATINOS",UNIVISION BOSTON ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/168706
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC NEW YORK ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/nbc-new-york-us-hd.png" group-title="US LOCALS",NBC NEW YORK ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/27672
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="DISCOVERY | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/discovery-us-hd.png" group-title="US LOCALS",DISCOVERY | US ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/64518
-#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="HISTORY | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/history-us-hd.png" group-title="US LOCALS",HISTORY | US ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/64519
-#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX BOSTON" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/fox-us-hd.png" group-title="US LOCALS",FOX BOSTON
-http://nxt.plus:8080/olmos/1234guz/65713
-#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="DISNEY JR | US" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/disney-jr-us-hd.png" group-title="US LOCALS",DISNEY JR | US
-http://nxt.plus:8080/olmos/1234guz/118127
-#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="NICKELODEON | US" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/nickelodeon-us-hd.png" group-title="US LOCALS",NICKELODEON | US
-http://nxt.plus:8080/olmos/1234guz/118128
-#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="NICKTOONS | US" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/nicktoons-us-hd.png" group-title="US LOCALS",NICKTOONS | US
-http://nxt.plus:8080/olmos/1234guz/118129
-#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="TNT | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/tnt-east-us-hd.png" group-title="US LOCALS",TNT | US ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/169280
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/chile/canal-13.png" group-title="CHILE",CANAL 13
-http://nxt.plus:8080/olmos/1234guz/169436
-#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO XTREME ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme-hd.png" group-title="CINE / SERIES | HD",HBO XTREME ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/169451
 #EXTINF:-1 tvg-id="" tvg-name="Detención oscura (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/famtCijsMWPLP4WTv7wCHbsThRi.jpg" group-title="ESTRENOS 2023",Detención oscura (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/169577.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Burn It All (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Dq3wRaocQtvTOHnZCy0XWuvQCW.jpg" group-title="ESTRENOS 2022",Burn It All (2022)
@@ -7605,7 +7531,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/171755.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/171756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un mundo azul: La carrera para resolver la crisis del agua (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l1r2sI18YdXpGvLhv3xKLbPcZB.jpg" group-title="DOCUMENTAL",Un mundo azul: La carrera para resolver la crisis del agua (2019)
 http://nxt.plus:8080/movie/olmos/1234guz/171757.mkv
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Una vida maravillosa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcDL57ZP833yQLC4kIqNpRziWOF.jpg" group-title="ESTRENOS 2023",Una vida maravillosa (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/172902.mkv
@@ -8161,92 +8086,7 @@ http://nxt.plus:8080/movie/olmos/1234guz/179158.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/179159.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Servando and Florentino: En tu Cuarto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpcLwvTiYatfqrK9dgByRyAcCh2.jpg" group-title="CONCIERTO",Servando and Florentino: En tu Cuarto
 http://nxt.plus:8080/movie/olmos/1234guz/179160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shakira In Concert: El Dorado World Tour (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9a9G3Vg6rZQloMIUeLd3JSJrK8.jpg" group-title="CONCIERTO",Shakira In Concert: El Dorado World Tour (2019)
-http://nxt.plus:8080/movie/olmos/1234guz/179161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shania Twain: Live (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuvZJcxqk3WFp0NO62xS92q2NJ1.jpg" group-title="CONCIERTO",Shania Twain: Live (1998)
-http://nxt.plus:8080/movie/olmos/1234guz/179162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soda Stereo MTV Unplugged: Comfort y Música Para Volar (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3ZfBprKBY6MOsGW3Pm6BOiUdyu.jpg" group-title="CONCIERTO",Soda Stereo MTV Unplugged: Comfort y Música Para Volar (1996)
-http://nxt.plus:8080/movie/olmos/1234guz/179164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soda Stereo - El último concierto (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abUAcPILaRXTDWx4RmpeJhj4ADA.jpg" group-title="CONCIERTO",Soda Stereo - El último concierto (2005)
-http://nxt.plus:8080/movie/olmos/1234guz/179165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Solo amor y mil canciones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luHm4dulxZq8bOY0Xj4mA72VlQE.jpg" group-title="CONCIERTO",Solo amor y mil canciones (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/179166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Taylor Swift's Reputation Stadium Tour (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg" group-title="CONCIERTO",Taylor Swift's Reputation Stadium Tour (2018)
-http://nxt.plus:8080/movie/olmos/1234guz/179167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viva Tour (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9uxirY0inNRwU4qFL9DCLYTrn8.jpg" group-title="CONCIERTO",Viva Tour (2013)
-http://nxt.plus:8080/movie/olmos/1234guz/179168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="U2: iNNOCENCE + eXPERIENCE Live in Paris (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT1EZFevfn36PqO1pUhfbctiHyU.jpg" group-title="CONCIERTO",U2: iNNOCENCE + eXPERIENCE Live in Paris (2015)
-http://nxt.plus:8080/movie/olmos/1234guz/179169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Cure - Trilogy (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aRacM59B7AwcpVyr8IXn3S9BmZ.jpg" group-title="CONCIERTO",The Cure - Trilogy (2002)
-http://nxt.plus:8080/movie/olmos/1234guz/179170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adele: Live at the Royal Albert Hall (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKHVEjAJ9DG7dNN5VEahTdExzgv.jpg" group-title="CONCIERTO",Adele: Live at the Royal Albert Hall (2011)
-http://nxt.plus:8080/movie/olmos/1234guz/179171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adele One Night Only (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg" group-title="CONCIERTO",Adele One Night Only (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/179172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An Audience with Adele (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zctubRROrjE9HcsZ8FBCYBnmCvc.jpg" group-title="CONCIERTO",An Audience with Adele (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/179173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beastie Boys Story (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h94Hll0FpYdbX8IFWndbJu9DDOe.jpg" group-title="CONCIERTO",Beastie Boys Story (2020)
-http://nxt.plus:8080/movie/olmos/1234guz/179174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blur: Parklive (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvtOfecNgTocDJ7ZngguMSlNbUe.jpg" group-title="CONCIERTO",Blur: Parklive (2012)
-http://nxt.plus:8080/movie/olmos/1234guz/179175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Carrie Underwood: The Blown Away Tour Live (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldcg1B5Wwc9k7r3y8DtPLse12xr.jpg" group-title="CONCIERTO",Carrie Underwood: The Blown Away Tour Live (2013)
-http://nxt.plus:8080/movie/olmos/1234guz/179176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Céline Dion: Live In Las Vegas - A New Day... (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9cDwt6dHGScJfQIxom5MyYkLLK.jpg" group-title="CONCIERTO",Céline Dion: Live In Las Vegas - A New Day... (2007)
-http://nxt.plus:8080/movie/olmos/1234guz/179177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coldplay - Live from Climate Pledge Arena (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXYg1myPEqO5kvyS9C0DCFmknUn.jpg" group-title="CONCIERTO",Coldplay - Live from Climate Pledge Arena (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/179178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Creedence Clearwater Revival: The Royal Albert Hall Concert 1970 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epESOXFFG4w8GuYjj2QogoZPXHP.jpg" group-title="CONCIERTO",Creedence Clearwater Revival: The Royal Albert Hall Concert 1970 (2011)
-http://nxt.plus:8080/movie/olmos/1234guz/179179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elton John: The Red Piano (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96sbYZ1bG5LAcgEB5kH49Eo7u6i.jpg" group-title="CONCIERTO",Elton John: The Red Piano (2005)
-http://nxt.plus:8080/movie/olmos/1234guz/179180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elton John Live: Farewell from Dodger Stadium (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbV1dyczIIGHbQIb1IeGTzm5D6a.jpg" group-title="CONCIERTO",Elton John Live: Farewell from Dodger Stadium (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/179181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elvis - Aloha from Hawaii (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfvtF7Ojwb40Q9gWLOufuqdkT72.jpg" group-title="CONCIERTO",Elvis - Aloha from Hawaii (1973)
-http://nxt.plus:8080/movie/olmos/1234guz/179182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Europe : The Final Countdown 30th Anniversary Show - Live At The Roundhouse (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMSU6cgXsyZTwvu8qrsmsAvBlc0.jpg" group-title="CONCIERTO",Europe : The Final Countdown 30th Anniversary Show - Live At The Roundhouse (2017)
-http://nxt.plus:8080/movie/olmos/1234guz/179183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Folklore: The Long Pond Studio Sessions (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8gd3v3TNJjq3uzLTuNfKyPQcsD.jpg" group-title="CONCIERTO",Folklore: The Long Pond Studio Sessions (2020)
-http://nxt.plus:8080/movie/olmos/1234guz/179184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3zuWOryev3hm00s4xv7BjNBZa.jpg" group-title="CONCIERTO",Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)
-http://nxt.plus:8080/movie/olmos/1234guz/179185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Idina Menzel: Embruja El Madison Square Garden (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NLP4xNBbeSPuQrW21EovPFXhZI.jpg" group-title="CONCIERTO",Idina Menzel: Embruja El Madison Square Garden (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/179186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Il Volo Takes Flight (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq0zLTs0d25oH1VQQQgbXclFXhB.jpg" group-title="CONCIERTO",Il Volo Takes Flight (2011)
-http://nxt.plus:8080/movie/olmos/1234guz/179187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jennifer Lopez: Dance Again (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1i1Srwy1V9yNpglCbFI8paykIua.jpg" group-title="CONCIERTO",Jennifer Lopez: Dance Again (2014)
-http://nxt.plus:8080/movie/olmos/1234guz/179188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joe Cocker: Fire It Up Live (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57lujO8CreEbSxnWLYDh8SNBIj6.jpg" group-title="CONCIERTO",Joe Cocker: Fire It Up Live (2013)
-http://nxt.plus:8080/movie/olmos/1234guz/179189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Justin Timberlake + The Tennessee Kids (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TDZqiRPBhUNDRermZ5HfKf4WoF.jpg" group-title="CONCIERTO",Justin Timberlake + The Tennessee Kids (2016)
-http://nxt.plus:8080/movie/olmos/1234guz/179190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Laura Pausini: Un placer conocerte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59TWAJRYb5Qtu3mOzQ5JjhmOv39.jpg" group-title="CONCIERTO",Laura Pausini: Un placer conocerte (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/179191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Led Zeppelin: Celebration Day (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xVMTx1aqSgFBTFf6vuRNlmv9xR.jpg" group-title="CONCIERTO",Led Zeppelin: Celebration Day (2012)
-http://nxt.plus:8080/movie/olmos/1234guz/179192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MTV Unplugged: Liam Gallagher (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ9drQGT7v92H8hjczAmw0A712o.jpg" group-title="CONCIERTO",MTV Unplugged: Liam Gallagher (2019)
-http://nxt.plus:8080/movie/olmos/1234guz/179193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Listening to Kenny G (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTQMCZYB3txbAcGOdFIkKpK6xnk.jpg" group-title="CONCIERTO",Listening to Kenny G (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/179194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Autenticos Decantes | ADN Experiencia 360° (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTAhctu9WmEDu8vB70btcDyLT2b.jpg" group-title="CONCIERTO",Los Autenticos Decantes | ADN Experiencia 360° (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/179195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Jaivas: Todos juntos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxGi4ca2c1xORCX5V22FUHSkjKa.jpg" group-title="CONCIERTO",Los Jaivas: Todos juntos (2020)
-http://nxt.plus:8080/movie/olmos/1234guz/179196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madonna: Madame X (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxwpJ6LsYesKJjVA2HRnZeo8OsQ.jpg" group-title="CONCIERTO",Madonna: Madame X (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/179197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marc Anthony: The Concert from Madison Square Garden (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzYEBLfznxJPgmQWWg1pW6c9spc.jpg" group-title="CONCIERTO",Marc Anthony: The Concert from Madison Square Garden (2000)
-http://nxt.plus:8080/movie/olmos/1234guz/179198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Metallica: Orgullo, Pasion y Gloria - Tres Noches en la Ciudad de Mexico (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkKZ6og6pS7TEbhCG0J6JFHXyFy.jpg" group-title="CONCIERTO",Metallica: Orgullo, Pasion y Gloria - Tres Noches en la Ciudad de Mexico (2009)
-http://nxt.plus:8080/movie/olmos/1234guz/179199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Metallica & San Francisco Symphony - S&M2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7amPpcvOVLG88PhMHlo3DTXU8yC.jpg" group-title="CONCIERTO",Metallica & San Francisco Symphony - S&M2 (2019)
-http://nxt.plus:8080/movie/olmos/1234guz/179200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oasis Knebworth 1996 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyejtuebfEv1UV6ldlmYQl9KwwI.jpg" group-title="CONCIERTO",Oasis Knebworth 1996 (2021)
-http://nxt.plus:8080/movie/olmos/1234guz/179201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oasis: Live in Manchester (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVKmfSKVL6LsBvv0A5OhNp64WU.jpg" group-title="CONCIERTO",Oasis: Live in Manchester (2005)
-http://nxt.plus:8080/movie/olmos/1234guz/179202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Phil Collins: Finally... The First Farewell Tour (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crN7Zf6S9vu2o1GFLp3E2xzpLY9.jpg" group-title="CONCIERTO",Phil Collins: Finally... The First Farewell Tour (2004)
-http://nxt.plus:8080/movie/olmos/1234guz/179203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pink Floyd: Pulse (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HJgxGvx9QDUsnifaZxgXyz63aN.jpg" group-title="CONCIERTO",Pink Floyd: Pulse (1995)
-http://nxt.plus:8080/movie/olmos/1234guz/179204.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody: La historia de Freddie Mercury (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk6IErM0acV6HJRwKZy8ecBoddc.jpg" group-title="BIOGRÁFICAS",Bohemian Rhapsody: La historia de Freddie Mercury (2018)
 http://nxt.plus:8080/movie/olmos/1234guz/179475.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Paradiso (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg" group-title="CLÁSICOS DEL CINE",Cinema Paradiso (1988)
@@ -9728,8 +9568,6 @@ http://nxt.plus:8080/movie/olmos/1234guz/200830.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/200831.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Chica Que Mato A Sus Padres: Confesion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLJT5sHGlJa8yyiMYCUjdgQXfGD.jpg" group-title="ESTRENOS 2023",La Chica Que Mato A Sus Padres: Confesion (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/200832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Marvel Avengers: Código rojo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ba3Kw9isyWvu6cupzUagm8ejw2.jpg" group-title="ESTRENOS INFANTILES",LEGO Marvel Avengers: Código rojo (2023)
-http://nxt.plus:8080/movie/olmos/1234guz/200833.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mickey y sus Amigos: Dulce o Truco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uTHaS2eWFLYWQ79I3HuLpXVAFB.jpg" group-title="ESTRENOS INFANTILES",Mickey y sus Amigos: Dulce o Truco (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/200834.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nuovo Olimpo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" group-title="ESTRENOS 2023",Nuovo Olimpo (2023)
@@ -10916,21 +10754,98 @@ http://nxt.plus:8080/movie/olmos/1234guz/211022.mkv
 http://nxt.plus:8080/movie/olmos/1234guz/211023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Royal Hotel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg" group-title="ESTRENOS 2023",The Royal Hotel (2023)
 http://nxt.plus:8080/movie/olmos/1234guz/211024.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Navidad en el paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUErzXNagefPT6fZFYMwpbymwcv.jpg" group-title="NAVIDAD NXT",Navidad en el paraíso (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118720.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Una noche descontrolada: Tiempo de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voMl9yeRvYlhayFBBhUqYVBKTyQ.jpg" group-title="NAVIDAD NXT",Una noche descontrolada: Tiempo de Navidad (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/118865.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Que Padre…es Mi Familia? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxSnWIyBvDkJkkvc0pzEtK9Pz5p.jpg" group-title="ESTRENOS 2022",Que Padre…es Mi Familia? (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119199.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Navidad en armonía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZY8FvL9Tg86EKrQrvaL68Aexo.jpg" group-title="NAVIDAD NXT",Navidad en armonía (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/118844.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Scrooge: Cuento de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqMEPeRCPJFAXE3ZqWv4eBrdCA4.jpg" group-title="NAVIDAD NXT",Scrooge: Cuento de Navidad (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/119289.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Shakira In Concert: El Dorado World Tour (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9a9G3Vg6rZQloMIUeLd3JSJrK8.jpg" group-title="CONCIERTO",Shakira In Concert: El Dorado World Tour (2019)
+http://nxt.plus:8080/movie/olmos/1234guz/179161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shania Twain: Live (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuvZJcxqk3WFp0NO62xS92q2NJ1.jpg" group-title="CONCIERTO",Shania Twain: Live (1998)
+http://nxt.plus:8080/movie/olmos/1234guz/179162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soda Stereo MTV Unplugged: Comfort y Música Para Volar (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3ZfBprKBY6MOsGW3Pm6BOiUdyu.jpg" group-title="CONCIERTO",Soda Stereo MTV Unplugged: Comfort y Música Para Volar (1996)
+http://nxt.plus:8080/movie/olmos/1234guz/179164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soda Stereo - El último concierto (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abUAcPILaRXTDWx4RmpeJhj4ADA.jpg" group-title="CONCIERTO",Soda Stereo - El último concierto (2005)
+http://nxt.plus:8080/movie/olmos/1234guz/179165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo amor y mil canciones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luHm4dulxZq8bOY0Xj4mA72VlQE.jpg" group-title="CONCIERTO",Solo amor y mil canciones (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/179166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taylor Swift's Reputation Stadium Tour (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg" group-title="CONCIERTO",Taylor Swift's Reputation Stadium Tour (2018)
+http://nxt.plus:8080/movie/olmos/1234guz/179167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viva Tour (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9uxirY0inNRwU4qFL9DCLYTrn8.jpg" group-title="CONCIERTO",Viva Tour (2013)
+http://nxt.plus:8080/movie/olmos/1234guz/179168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="U2: iNNOCENCE + eXPERIENCE Live in Paris (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT1EZFevfn36PqO1pUhfbctiHyU.jpg" group-title="CONCIERTO",U2: iNNOCENCE + eXPERIENCE Live in Paris (2015)
+http://nxt.plus:8080/movie/olmos/1234guz/179169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cure - Trilogy (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aRacM59B7AwcpVyr8IXn3S9BmZ.jpg" group-title="CONCIERTO",The Cure - Trilogy (2002)
+http://nxt.plus:8080/movie/olmos/1234guz/179170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adele: Live at the Royal Albert Hall (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKHVEjAJ9DG7dNN5VEahTdExzgv.jpg" group-title="CONCIERTO",Adele: Live at the Royal Albert Hall (2011)
+http://nxt.plus:8080/movie/olmos/1234guz/179171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adele One Night Only (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg" group-title="CONCIERTO",Adele One Night Only (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/179172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An Audience with Adele (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zctubRROrjE9HcsZ8FBCYBnmCvc.jpg" group-title="CONCIERTO",An Audience with Adele (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/179173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beastie Boys Story (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h94Hll0FpYdbX8IFWndbJu9DDOe.jpg" group-title="CONCIERTO",Beastie Boys Story (2020)
+http://nxt.plus:8080/movie/olmos/1234guz/179174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blur: Parklive (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvtOfecNgTocDJ7ZngguMSlNbUe.jpg" group-title="CONCIERTO",Blur: Parklive (2012)
+http://nxt.plus:8080/movie/olmos/1234guz/179175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie Underwood: The Blown Away Tour Live (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldcg1B5Wwc9k7r3y8DtPLse12xr.jpg" group-title="CONCIERTO",Carrie Underwood: The Blown Away Tour Live (2013)
+http://nxt.plus:8080/movie/olmos/1234guz/179176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Céline Dion: Live In Las Vegas - A New Day... (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9cDwt6dHGScJfQIxom5MyYkLLK.jpg" group-title="CONCIERTO",Céline Dion: Live In Las Vegas - A New Day... (2007)
+http://nxt.plus:8080/movie/olmos/1234guz/179177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coldplay - Live from Climate Pledge Arena (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXYg1myPEqO5kvyS9C0DCFmknUn.jpg" group-title="CONCIERTO",Coldplay - Live from Climate Pledge Arena (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/179178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creedence Clearwater Revival: The Royal Albert Hall Concert 1970 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epESOXFFG4w8GuYjj2QogoZPXHP.jpg" group-title="CONCIERTO",Creedence Clearwater Revival: The Royal Albert Hall Concert 1970 (2011)
+http://nxt.plus:8080/movie/olmos/1234guz/179179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elton John: The Red Piano (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96sbYZ1bG5LAcgEB5kH49Eo7u6i.jpg" group-title="CONCIERTO",Elton John: The Red Piano (2005)
+http://nxt.plus:8080/movie/olmos/1234guz/179180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elton John Live: Farewell from Dodger Stadium (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbV1dyczIIGHbQIb1IeGTzm5D6a.jpg" group-title="CONCIERTO",Elton John Live: Farewell from Dodger Stadium (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/179181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elvis - Aloha from Hawaii (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfvtF7Ojwb40Q9gWLOufuqdkT72.jpg" group-title="CONCIERTO",Elvis - Aloha from Hawaii (1973)
+http://nxt.plus:8080/movie/olmos/1234guz/179182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Europe : The Final Countdown 30th Anniversary Show - Live At The Roundhouse (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMSU6cgXsyZTwvu8qrsmsAvBlc0.jpg" group-title="CONCIERTO",Europe : The Final Countdown 30th Anniversary Show - Live At The Roundhouse (2017)
+http://nxt.plus:8080/movie/olmos/1234guz/179183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Folklore: The Long Pond Studio Sessions (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8gd3v3TNJjq3uzLTuNfKyPQcsD.jpg" group-title="CONCIERTO",Folklore: The Long Pond Studio Sessions (2020)
+http://nxt.plus:8080/movie/olmos/1234guz/179184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3zuWOryev3hm00s4xv7BjNBZa.jpg" group-title="CONCIERTO",Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)
+http://nxt.plus:8080/movie/olmos/1234guz/179185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Idina Menzel: Embruja El Madison Square Garden (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NLP4xNBbeSPuQrW21EovPFXhZI.jpg" group-title="CONCIERTO",Idina Menzel: Embruja El Madison Square Garden (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/179186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Il Volo Takes Flight (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq0zLTs0d25oH1VQQQgbXclFXhB.jpg" group-title="CONCIERTO",Il Volo Takes Flight (2011)
+http://nxt.plus:8080/movie/olmos/1234guz/179187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jennifer Lopez: Dance Again (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1i1Srwy1V9yNpglCbFI8paykIua.jpg" group-title="CONCIERTO",Jennifer Lopez: Dance Again (2014)
+http://nxt.plus:8080/movie/olmos/1234guz/179188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joe Cocker: Fire It Up Live (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57lujO8CreEbSxnWLYDh8SNBIj6.jpg" group-title="CONCIERTO",Joe Cocker: Fire It Up Live (2013)
+http://nxt.plus:8080/movie/olmos/1234guz/179189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Justin Timberlake + The Tennessee Kids (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TDZqiRPBhUNDRermZ5HfKf4WoF.jpg" group-title="CONCIERTO",Justin Timberlake + The Tennessee Kids (2016)
+http://nxt.plus:8080/movie/olmos/1234guz/179190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laura Pausini: Un placer conocerte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59TWAJRYb5Qtu3mOzQ5JjhmOv39.jpg" group-title="CONCIERTO",Laura Pausini: Un placer conocerte (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/179191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Led Zeppelin: Celebration Day (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xVMTx1aqSgFBTFf6vuRNlmv9xR.jpg" group-title="CONCIERTO",Led Zeppelin: Celebration Day (2012)
+http://nxt.plus:8080/movie/olmos/1234guz/179192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MTV Unplugged: Liam Gallagher (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ9drQGT7v92H8hjczAmw0A712o.jpg" group-title="CONCIERTO",MTV Unplugged: Liam Gallagher (2019)
+http://nxt.plus:8080/movie/olmos/1234guz/179193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Listening to Kenny G (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTQMCZYB3txbAcGOdFIkKpK6xnk.jpg" group-title="CONCIERTO",Listening to Kenny G (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/179194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Autenticos Decantes | ADN Experiencia 360° (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTAhctu9WmEDu8vB70btcDyLT2b.jpg" group-title="CONCIERTO",Los Autenticos Decantes | ADN Experiencia 360° (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/179195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Jaivas: Todos juntos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxGi4ca2c1xORCX5V22FUHSkjKa.jpg" group-title="CONCIERTO",Los Jaivas: Todos juntos (2020)
+http://nxt.plus:8080/movie/olmos/1234guz/179196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madonna: Madame X (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxwpJ6LsYesKJjVA2HRnZeo8OsQ.jpg" group-title="CONCIERTO",Madonna: Madame X (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/179197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marc Anthony: The Concert from Madison Square Garden (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzYEBLfznxJPgmQWWg1pW6c9spc.jpg" group-title="CONCIERTO",Marc Anthony: The Concert from Madison Square Garden (2000)
+http://nxt.plus:8080/movie/olmos/1234guz/179198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Metallica: Orgullo, Pasion y Gloria - Tres Noches en la Ciudad de Mexico (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkKZ6og6pS7TEbhCG0J6JFHXyFy.jpg" group-title="CONCIERTO",Metallica: Orgullo, Pasion y Gloria - Tres Noches en la Ciudad de Mexico (2009)
+http://nxt.plus:8080/movie/olmos/1234guz/179199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Metallica & San Francisco Symphony - S&M2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7amPpcvOVLG88PhMHlo3DTXU8yC.jpg" group-title="CONCIERTO",Metallica & San Francisco Symphony - S&M2 (2019)
+http://nxt.plus:8080/movie/olmos/1234guz/179200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oasis Knebworth 1996 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyejtuebfEv1UV6ldlmYQl9KwwI.jpg" group-title="CONCIERTO",Oasis Knebworth 1996 (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/179201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oasis: Live in Manchester (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVKmfSKVL6LsBvv0A5OhNp64WU.jpg" group-title="CONCIERTO",Oasis: Live in Manchester (2005)
+http://nxt.plus:8080/movie/olmos/1234guz/179202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phil Collins: Finally... The First Farewell Tour (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crN7Zf6S9vu2o1GFLp3E2xzpLY9.jpg" group-title="CONCIERTO",Phil Collins: Finally... The First Farewell Tour (2004)
+http://nxt.plus:8080/movie/olmos/1234guz/179203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pink Floyd: Pulse (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HJgxGvx9QDUsnifaZxgXyz63aN.jpg" group-title="CONCIERTO",Pink Floyd: Pulse (1995)
+http://nxt.plus:8080/movie/olmos/1234guz/179204.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg" group-title="ESTRENOS INFANTILES",Sonic 2: La Película (2022)
 http://nxt.plus:8080/movie/olmos/1234guz/119296.mkv
@@ -10938,5 +10853,14 @@ http://nxt.plus:8080/movie/olmos/1234guz/119296.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="ESTRENOS INFANTILES",Soul (2020)
 http://nxt.plus:8080/movie/olmos/1234guz/119297.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYRd7O5Eht4jypJQrMWnCi26880.jpg" group-title="ESTRENOS INFANTILES",Red (2022)
-http://nxt.plus:8080/movie/olmos/1234guz/119329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Que Padre…es Mi Familia? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxSnWIyBvDkJkkvc0pzEtK9Pz5p.jpg" group-title="ESTRENOS 2022",Que Padre…es Mi Familia? (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/119199.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="UNIVERSO MARVEL",Pantera Negra: Wakanda por siempre (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/118691.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Un misterio de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="NAVIDAD NXT",Un misterio de Navidad (2022)
+http://nxt.plus:8080/movie/olmos/1234guz/118640.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sing 2: ¡Ven y canta de nuevo! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" group-title="ESTRENOS INFANTILES",Sing 2: ¡Ven y canta de nuevo! (2021)
+http://nxt.plus:8080/movie/olmos/1234guz/119292.mkv
