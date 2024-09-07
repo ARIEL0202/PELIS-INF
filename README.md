@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="TRILOGIA EL PROTEGIDO",El Protegido (2000)
+#EXTINF:-1 tvg-id="" tvg-name="El Protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="TRILOGIA EL PROTEGIDO",El Protegido (2000)       
 http://nxt.plus:8080/movie/olmos/1234guz/150569.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Split (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ferOoRE6ETESt9A3Aj3v1KPIHqr.jpg" group-title="TRILOGIA EL PROTEGIDO",Split (2016)
 http://nxt.plus:8080/movie/olmos/1234guz/150568.mkv
